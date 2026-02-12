@@ -49,7 +49,7 @@ Ensure you have the following installed:
     ```bash
     npm run dev
     ```
-    Open your browser and navigate to the local URL provided in the terminal (usually http://localhost:5173).
+    Open your browser and navigate to the local URL provided in the terminal.
 
 ## Usage
 
